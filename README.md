@@ -1,5 +1,5 @@
 # DL-fun-summer20
-Some one off experiments in deep learning during my summer off
+Some one off experiments in deep learning during my summer off (during corona, right after graduating and right before starting my PhD). 
 
 All code was written in python 3.6 with pytorch framework and was developed using Google Colab, which allows for free GPU access (thanks Google!). Here are some brief descriptions of each file. 
 
